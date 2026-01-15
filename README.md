@@ -4,8 +4,8 @@
 
 1.  **Клонируйте репозиторий**
     ```bash
-    git clone https://your-repository-url.git
-    cd project-directory
+    git clone https://github.com/ZeroKJ123/tz-only
+    cd tz-only
     ```
 
 2.  **Создайте файл окружения**
